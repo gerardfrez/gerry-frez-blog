@@ -1,5 +1,3 @@
-
-```
 # Berlin
 
 Berlin is a city steeped in history and brimming with culture. As the capital of Germany, it has witnessed significant historical events and has grown into a vibrant metropolis known for its art, architecture, and nightlife.
@@ -32,5 +30,3 @@ Museum Island is a UNESCO World Heritage site that hosts five of Berlin's most i
 ![openFra](./food2.jpeg)
 
 [CLICK ME](./index.md) to go back to main menu
-```
-Feel free to expand on this or customize it to better fit your blog style.
